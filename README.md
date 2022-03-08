@@ -1,0 +1,2 @@
+# Tic-Tac-Toe-in-python
+A board game (such as Tic-tac-toe) is typically programmed as a state machine. Depending on  the  current-state  and  the  player's  move,   the  game   goes  into  the  next-state.  Tic-tac-      toe (or Noughts and crosses, Xs and Os) is a paper and pencil for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game. 
